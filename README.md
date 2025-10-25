@@ -1,4 +1,4 @@
-# Parcial 2 – Docker + Node.js + PostgreSQL + Docker Compose  
+# Parcial  – Docker + Node.js + PostgreSQL + Docker Compose  
 
 **Estudiante:** Dalila Astrid Murcia Medina  
 **Expediente:** 25759  
