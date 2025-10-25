@@ -71,6 +71,7 @@ USER node
 EXPOSE 3000
 CMD ["npm", "start"]
 
+
 Comandos de prueba
 docker-compose up -d
 docker ps
