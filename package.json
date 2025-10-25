@@ -1,0 +1,9 @@
+{
+  "name": "parcial-docker-integrado",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Parcial 2 - Servicio Node.js + Docker",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "4.19.2" }
+}
